@@ -1,0 +1,11 @@
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\bin\Debug\netcoreapp2.1\Winner.deps.json
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\bin\Debug\netcoreapp2.1\Winner.runtimeconfig.json
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\bin\Debug\netcoreapp2.1\Winner.runtimeconfig.dev.json
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\bin\Debug\netcoreapp2.1\Winner.dll
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\bin\Debug\netcoreapp2.1\Winner.pdb
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.csprojAssemblyReference.cache
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.csproj.CoreCompileInputs.cache
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.AssemblyInfoInputs.cache
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.AssemblyInfo.cs
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.dll
+C:\Users\Siphesihle\source\repos\DerivcoProgramTask\Winner\obj\Debug\netcoreapp2.1\Winner.pdb
